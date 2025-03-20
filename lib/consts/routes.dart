@@ -1,0 +1,1 @@
+const String mySubscriptionsPath = '/my_subscriptions';
